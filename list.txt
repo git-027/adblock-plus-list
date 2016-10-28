@@ -1,0 +1,14 @@
+[Adblock Plus 2.0]
+! Version: 20160105
+! Title: MagnoList
+! Last modified: 28 Dec 2015
+! Expires: 30 days (update frequency)
+!-----------------------General advert blocking filters-----------------------!
+
+jornalnh.com.br##.fw-overlay
+jornalnh.com.br##.fw-overlay-frame
+mail.google.com##.aKB
+mail.google.com##.aRA
+terra.com.br##.advertising
+terra.com.br##.ad-topstories
+terra.com.br##[data-type="AD"]
