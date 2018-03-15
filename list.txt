@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Version: 20180315
-! Title: MagnoList
+! Title: Magno`s Adblock List
 ! Last modified: 15 Mar 2018
 ! Expires: 30 days (update frequency)
 !-----------------------General advert blocking filters-----------------------!
