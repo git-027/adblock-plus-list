@@ -1,9 +1,13 @@
 [Adblock Plus 2.0]
 ! Version: 20180315
-! Title: Magno`s Adblock List
+! Title: Magno's Adblock List
 ! Last modified: 15 Mar 2018
 ! Expires: 30 days (update frequency)
+! License: https://magno.mit-license.org/2016
+! Email: magno.biet+adp@gmail.com
+! Homepage: https://adp.magnobiet.com/
 !-----------------------General advert blocking filters-----------------------!
+! *** Fetched from: https://adp.magnobiet.com/list.txt ***
 
 jornalnh.com.br##.fw-overlay
 jornalnh.com.br##.fw-overlay-frame
