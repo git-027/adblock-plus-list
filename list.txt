@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20161221
+! Version: 20180315
 ! Title: MagnoList
-! Last modified: 21 Dez 2016
+! Last modified: 15 Mar 2018
 ! Expires: 30 days (update frequency)
 !-----------------------General advert blocking filters-----------------------!
 
@@ -14,3 +14,7 @@ terra.com.br##.ad-topstories
 terra.com.br##[data-type="AD"]
 
 tecmundo.com.br##.gallery-ads.gallery-ads-active
+
+linkedin.com##.feed-ad__side.ad-banner-container
+linkedin.com##[data-control-name="premium_homepage_identity_upsell_click"]
+linkedin.com##[data-control-name="premium_nav_upsell_text_click"]
